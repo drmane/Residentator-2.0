@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 11 20:31:21 CEST 2014:
+ Iniciando instancia a816c00e-0147-c656-c664-000001bcb210 de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): 
+en el directorio de base de datos C:\Users\Javi\workspace_eclipse_non_android\Residentator0.5\baseDatos2 con el cargador de clases sun.misc.Launcher$AppClassLoader@6f978b94
+Cargado desde file:/C:/Users/Javi/workspace_eclipse_non_android/ResidentatorMS/lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=C:\Users\Javi\workspace_eclipse_non_android\ResidentatorMS
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''

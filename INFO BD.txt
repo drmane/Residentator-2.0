@@ -1,0 +1,14 @@
+user: sql346649
+
+pass: qM6*cU8*
+
+nombre instancia BD: sql346649
+
+URL:jdbc:mysql://sql3.freemysqlhosting.net:3306/sql346649
+
+server / host: sql3.freemysqlhosting.net
+
+Para gestionar los datos, entrar en el siguiente enlace:
+http://www.phpmyadmin.co/
+
+Introducir los datos correspondientes y gestionar la BD como se desea.
